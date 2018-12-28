@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "EL GRINCH - Trailer",
+          "author": "Universal Studios",
+          "type": "video",
+          "cover": "./images/covers/ElGrinch.jpg",
+          "src": "https://youtu.be/vWyJ3PbX4fA",
+          "id": 1
+        },
+        {
+          "title": "MUTAFUKAZ-Trailer",
+          "author": "Ankama Animations",
+          "type": "video",
+          "cover": "./images/covers/MUTAFUKAZ.jpeg",
+          "src": "https://youtu.be/2bbv2vR6LkU",
+          "id": 2
+        },
+        {
+          "title": "KIN - Trailer ",
+          "author": "LionGate",
+          "type": "video",
+          "cover": "./images/covers/kin.jpg",
+          "src": "https://youtu.be/odjAoLbcWHk",
+          "id": 3
+        },
+        {
+          "title": "DEADPOOL 2 ",
+          "author": "Marvel Comics",
+          "type": "video",
+          "cover": "./images/covers/DEADPOOL.jpeg",
+          "src": "https://youtu.be/z8gSKRR4B2w",
+          "id": 4
+        },
+        {
+          "title": "EL TITÁN ",
+          "author": "Netfix",
+          "type": "video",
+          "cover": "./images/covers/ELTITÁN .jpg",
+          "src": "https://youtu.be/7tW7E0Y7u3c",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/one-more-time.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Midnight City",
+          "author": "M83",
+          "type": "video",
+          "cover": "./images/covers/midnight.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "./images/covers/solar-sailer.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "The social network",
+          "author": "The social network",
+          "type": "video",
+          "cover": "./images/covers/social.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "No vaya a ser",
+          "author": "Pablo Alboran",
+          "type": "video",
+          "cover": "./images/covers/no-vaya-a-ser.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "playlist": [
+        {
+          "title": "Despacito",
+          "author": "Luis Fonsi",
+          "type": "video",
+          "cover": "./images/covers/despacito.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Echame la culpa",
+          "author": "Luis fonsi",
+          "type": "video",
+          "cover": "./images/covers/echame-la-culpa.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Mi Gente",
+          "author": "J Bavil",
+          "type": "video",
+          "cover": "./images/covers/mi-gente.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Felices los 4",
+          "author": "Maluma",
+          "type": "video",
+          "cover": "./images/covers/felices.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Me Rehúso",
+          "author": "Danny Ocean",
+          "type": "video",
+          "cover": "./images/covers/rehuso.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
