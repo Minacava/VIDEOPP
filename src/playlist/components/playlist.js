@@ -15,20 +15,20 @@ function Playlist(props) {
     return (
         <div className='Playlist'>
             <Play
-                size={30}
+                size={20}
                 color="red"
             />
             <Pause
-                size={30}
-                color="black"
+                size={20}
+                color="#A0A0A0"
             />
             <FullScreen
-                size={30}
-                color="#47cf73"
+                size={20}
+                color="#A0A0A0"
             />
             <Volume
-                size={30}
-                color="#0ebeff" 
+                size={20}
+                color="#A0A0A0" 
             />
             <Titles
                 text="TRAILER"
