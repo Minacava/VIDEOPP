@@ -2,6 +2,9 @@ import React from 'react';
 import Media from './media.js';
 import './playlist.css';
 import Play from '../../icons/components/play'
+import Pause from '../../icons/components/pause'
+import FullScreen from '../../icons/components/full-screen'
+import Volume from '../../icons/components/volume'
 import Titles from './titles';
 
 function Playlist(props) {
@@ -15,15 +18,27 @@ function Playlist(props) {
                 size={30}
                 color="red"
             />
+            <Pause
+                size={30}
+                color="black"
+            />
+            <FullScreen
+                size={30}
+                color="#47cf73"
+            />
+            <Volume
+                size={30}
+                color="#0ebeff" 
+            />
             <Titles
-                text="TRAILERS"
+                text="TRAILER"
             />
             {
                 playlist.map((item) => {
                     return <Media {...item} key={item.id} />
                 })
             }
-             <Titles
+            <Titles
                 text="MIXES"
             />
             {
@@ -31,14 +46,14 @@ function Playlist(props) {
                     return <Media {...item} key={item.id} />
                 })
             }
-             <Titles
+            <Titles
                 text="MUSIC"
             />
-             {
+            {
                 playlistThree.map((item) => {
                     return <Media {...item} key={item.id} />
                 })
-                }
+            }
         </div>
     )
 }
