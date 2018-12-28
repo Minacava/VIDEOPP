@@ -5,7 +5,6 @@
   margin-bottom: 40px;
   display: inline-block;
   width: 260px;
-  vertical-align: top;
   flex-wrap: wrap;
   animation: 1s ease-out 0s 1 slide;
 }
@@ -27,6 +26,7 @@
 .Media-description {
   background-color: #FC561F;
   color: white;
+  width: 50%;
   transition: .3s;
   box-shadow: 0 0 5px rgba(0,0,0,.3);
 }
@@ -42,6 +42,7 @@
 .Media-author {
   font-size: 12px;
   margin: 5px;
+  text-align: center;
 
 }
 @keyframes slide {
